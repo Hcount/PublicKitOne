@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "LogKit"
+  s.name         = "HZQLogKit"
   s.version      = "1.0.0"
   s.summary      = "log kit"
   s.homepage     = "https://github.com/Hcount"
